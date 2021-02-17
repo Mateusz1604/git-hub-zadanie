@@ -8,7 +8,9 @@
 </head>
 <body>
     <header>
-    <h1>Portal Ogłoszeniowy</h1>
+    <h1>
+        Portal Ogłoszeniowy
+    </h1>
     </header>
 
 
