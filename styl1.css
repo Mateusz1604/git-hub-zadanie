@@ -8,7 +8,6 @@ vertical-align: baseline;
 text-decoration: none;
 outline: 0;
 }
-
 header {
     background-color:#40271A;
     color: white;
@@ -38,7 +37,6 @@ footer {
     color: white;
     text-align: right;
 }
-
 table td {
     border: dashed brown 1px; 
     width: 500px;
