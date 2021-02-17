@@ -30,10 +30,10 @@
             <td>Liczba ogłoszeń</td> <td>Cena ogłoszenia</td> <td>Bonus</td>
         </tr>
         <tr>
-            <td>1 - 10</td> <td>1 PLN</td> <td rowspan='3'>Subskrybcja newslettera<br> to upust 0.20PLN na <br>ogłoszenie</td>
+            <td>1 - 10</td> <td>2 PLN</td> <td rowspan='3'>Subskrybcja newslettera<br> to upust 0.20PLN na <br>ogłoszenie</td>
         </tr>
         <tr>
-            <td>11 - 50</td> <td>0.8 PLN</td> 
+            <td>11 - 50</td> <td>1 PLN</td> 
         </tr>
     </table>
     </section>
